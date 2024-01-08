@@ -3,6 +3,7 @@ npm install
 
 # Commands
 `npm run watch`
+git add 
 `npm run compile-scss` // One off compile
 
 # Modifying scss input/output paths
