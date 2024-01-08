@@ -1,5 +1,5 @@
 # Install
-npm install
+`npm install`
 
 # Commands
 `npm run watch`
