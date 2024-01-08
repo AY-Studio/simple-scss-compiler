@@ -1,0 +1,11 @@
+{
+	"version": 3,
+	"file": "main.css",
+	"sources": [
+		"../../src/scss/main.scss",
+		"../../src/scss/global.scss",
+		"../../src/scss/components/buttons.scss"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,IAAI,CAAC;EACH,UAAU,EAAE,GAAG;EACf,UAAU,EAAE,IAAI;CACjB"
+}
